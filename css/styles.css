@@ -172,6 +172,7 @@ body {
   color: var(--accent-color);
 }
 .footer-mail {
+
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
@@ -182,8 +183,13 @@ body {
 .footer-phone:focus {
   color: var(--accent-color);
 }
-
+.footer-addres {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+}
 .footer-phone {
+
   font-weight: 400;
   font-size: 14px;
   line-height: 1.71;
